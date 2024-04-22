@@ -82,7 +82,6 @@ The testing framework for my project is included as a robust suite of tests that
 The coverage of my tests range from simple unit tests to much more complex integration and functional tests. These more complex tests validate the application's interactions with the underlying components. 
 
 ## References
-POSTrequests
 
 Croft, W. Bruce, Donald Metzler, and Trevor Strohman. Search engines: Information retrieval in practice. Boston, 
     MA: Addison-Wesley, 2015.
